@@ -22,6 +22,8 @@ Interested students should submit an application by October 12, 2025 at 11:59pm 
 
 Short Zoom interviews (15-20 minutes) may be conducted among a select group of finalists.  A maximum of 5 students will be selected for this internship.   The internship will be open both to graduate and undergraduate students.
 
+Here is the link to the application form: 
+
 
 ## Prizes
 The opportunity to work and interact with the high caliber Kings staff is the primary prize for this proposal.  It may be possible that the Kings offer additional swag or tickets.  In exceptional cases, interns may be offered the chance to continue their work with the Kings as part of a summer internship.  
@@ -31,5 +33,6 @@ The opportunity to work and interact with the high caliber Kings staff is the pr
 If you have questions about the internship or the application, please contact Prof. Michael Schuckers via email at *schuckers at charlotte dot edu*.
 
  
+
 
 
