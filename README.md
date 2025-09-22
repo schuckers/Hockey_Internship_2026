@@ -8,7 +8,7 @@ Students will be selected based upon an application. Selected students will be p
 There are two areas of interest for these internships: 1) prospect evaluation and 2) transactions.  These are described below.  As part of the application students will submit a one-page description of the work they would like to do in one of these two areas.  That description should include the motivation for the analysis as well as the methods to be used.  We value originality and creativity in these proposals, so the example below of previous work should not be considered limiting.
 
 ### Prospect Evaluation
-For projects in this area, student will work with written public scouting reports, such as the EliteProspects Draft Guide, along with some basic biographical and statistical information about draft-eligible prospects. Work in this area should be anchored on predicting who will play in the NHL or where a player will be drafted.  [<https://webpages.charlotte.edu/mschuck1/sports/EliteProspects2025DraftGuide(Excerpt).pdf>].  Here are two examples of previous work in this area: [<https://www.statsportsconsulting.com/wp-content/uploads/Text_Mining_of_Scouting_Reports_for_Improving_NHL_Draft_Analytics.pdf>] and [<https://hluo27.github.io/assets/files/NHL_Draft_Scouting_Reports.pdf>].  
+For projects in this area, student will work with written public scouting reports, such as the EliteProspects Draft Guide, along with some basic biographical and statistical information about draft-eligible prospects. Work in this area should be anchored on predicting who will play in the NHL or where a player will be drafted.  Here is an example of what the public scouting report data would look like:[<https://webpages.charlotte.edu/mschuck1/sports/EliteProspects2025DraftGuide(Excerpt).pdf>].  Here are two examples of previous work in this area: [<https://www.statsportsconsulting.com/wp-content/uploads/Text_Mining_of_Scouting_Reports_for_Improving_NHL_Draft_Analytics.pdf>] and [<https://hluo27.github.io/assets/files/NHL_Draft_Scouting_Reports.pdf>].  
 
 ### Transactions
 For transactions, students will be provided a list of all NHL transactions (trades, contract signings, waiver wire pickups, etc), along with contractual data, and basic biographical and statistical information.  Students will use these data, similar to [<https://www.nhltradetracker.com/home>], and generate new insights. Here is an example of work that could be done with part of these data: [<https://soundofhockey.com/2022/06/06/examining-the-value-of-nhl-draft-picks/>].
@@ -20,9 +20,9 @@ For transactions, students will be provided a list of all NHL transactions (trad
 Interested students should submit an application by October 12, 2025 at 11:59pm PT.  As part of the application, students will have to provide some information about themselves (name, email, etc), an unofficial transcript, a description of why they are interested in this internship and a one-page description of the project they would like to undertake.  
 
 
-Short Zoom interviews (15-20 minutes) may be conducted among a select group of finalists.  A maximum of 5 students will be selected for this internship.   The internship will be open both to graduate and undergraduate students.
+Short Zoom interviews (15-20 minutes) may be conducted for a group of finalists.  A maximum of 5 students will be selected for this internship.   The internship will be open both to graduate and undergraduate students.
 
-Here is the link to the application form: 
+Here is the link to the application form: [<https://forms.gle/avDoqyjaiyjsiUKY7>].
 
 
 ## Prizes
@@ -33,6 +33,7 @@ The opportunity to work and interact with the high caliber Kings staff is the pr
 If you have questions about the internship or the application, please contact Prof. Michael Schuckers via email at *schuckers at charlotte dot edu*.
 
  
+
 
 
 
