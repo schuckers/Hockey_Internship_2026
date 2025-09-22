@@ -5,7 +5,7 @@ This page provides information about a research internship for the Spring 2026 s
 Students will be selected based upon an application. Selected students will be provided with access to the relevant data by the Kings, no later than January 5, 2026. Students will meet weekly with Prof. Schuckers and approximately bi-weekly or as necessary with Kings staff.  Neither the work that is part of this internship, nor the data provided by the Kings will be made public without the written consent of the Kings.  At the end of the internship, students will create a summary of their work that will be presented to the Kings.  Undergraduate students will receive three credit hours of DTSC 3400 course credit for this internship, while graduate students will receive DTSC 6400 credit.  
 
 ## Topics for the internship
-There are two areas of interest for these internships: 1) prospect evaluation and 2) transactions.  These are described below.  As part of the application students will submit a one-page description of the work they would like to do in one of these two areas.  That description should include the motivation for the analysis as well as the methods to be used.  We value originality and creativity in these proposals, so the example previous work should not be considered limiting.
+There are two areas of interest for these internships: 1) prospect evaluation and 2) transactions.  These are described below.  As part of the application students will submit a one-page description of the work they would like to do in one of these two areas.  That description should include the motivation for the analysis as well as the methods to be used.  We value originality and creativity in these proposals, so the example below of previous work should not be considered limiting.
 
 ### Prospect Evaluation
 For projects in this area, student will work with written public scouting reports, such as the EliteProspects Draft Guide, along with some basic biographical and statistical information about draft-eligible prospects. Work in this area should be anchored on predicting who will play in the NHL or where a player will be drafted.  [<https://webpages.charlotte.edu/mschuck1/sports/EliteProspects2025DraftGuide(Excerpt).pdf>].  Here are two examples of previous work in this area: [<https://www.statsportsconsulting.com/wp-content/uploads/Text_Mining_of_Scouting_Reports_for_Improving_NHL_Draft_Analytics.pdf>] and [<https://hluo27.github.io/assets/files/NHL_Draft_Scouting_Reports.pdf>].  
@@ -33,6 +33,7 @@ The opportunity to work and interact with the high caliber Kings staff is the pr
 If you have questions about the internship or the application, please contact Prof. Michael Schuckers via email at *schuckers at charlotte dot edu*.
 
  
+
 
 
 
